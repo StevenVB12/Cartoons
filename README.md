@@ -7,6 +7,6 @@ Includes:
 ##### *Heliconius spp.* butterflies
 ##### *Pogonus chalceus* beetle
 
-# Contributions
+### Contributions
 
 Jamie Ogilvie - *Heliconius doris*

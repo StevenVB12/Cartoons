@@ -11,4 +11,4 @@ Includes:
 
 ### Contributions
 
-Jamie Ogilvie - *Heliconius doris*
+Jamie Ogilvie - *Heliconius doris*, *Pierella hyceta*

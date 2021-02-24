@@ -8,6 +8,7 @@ Includes:
 
 ##### *Heliconius spp.* butterflies
 ##### *Pogonus chalceus* beetle
+##### *Oedothorax gibbosus* dwarf spider
 
 ### Contributions
 

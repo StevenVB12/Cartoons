@@ -13,3 +13,5 @@ Includes:
 ### Contributions
 
 Jamie Ogilvie - *Heliconius doris*, *Pierella hyceta*
+
+Lara Herman - *Pogonus chalceus* drawing
